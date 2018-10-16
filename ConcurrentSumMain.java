@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class MainQ1
+public class ConcurrentSumMain
 {
     public static void main(String[] args)
     {
