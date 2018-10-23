@@ -4,7 +4,7 @@ public class SumArray
 {
     
 		
-	private ArrayList<Integer> numSumArray;//array of numbers
+    private ArrayList<Integer> numSumArray;//array of numbers
     private int maxNumThreads;// the number of maximum threads
     private int waitToDo;
     private boolean done;
